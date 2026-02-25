@@ -258,6 +258,17 @@ body {
     stroke: white;
 }
 
+/* Card Link Styles */
+.card-link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
+
+.card-link:hover {
+    text-decoration: none;
+}
+
 /* Back Link Styles */
 .back-link {
     display: flex;
