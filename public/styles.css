@@ -902,6 +902,8 @@ body {
     height: 240px;
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
+    display: block;
     transition: transform 0.5s ease;
 }
 
@@ -1128,6 +1130,8 @@ body {
     height: 300px;
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
+    display: block;
     position: relative;
 }
 
@@ -2588,6 +2592,8 @@ body {
     padding-top: 56.25%; /* 16:9 aspect ratio */
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
+    display: block;
     position: relative;
     border-radius: 8px;
     overflow: hidden;
@@ -4045,6 +4051,8 @@ body {
     height: 180px;
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
+    display: block;
     position: relative;
 }
 

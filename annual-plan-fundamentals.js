@@ -182,7 +182,7 @@ window.FUNDAMENTALS_ANNUAL_PLAN = {
                         id: 'tech-1',
                         name: 'Drop-feed contact point ladder',
                         demonstrationVideo: {
-                            thumbnailUrl: 'video-thumbnail-2.jpg',
+                            thumbnailUrl: '/images/video-thumbnail-2.jpg',
                             videoUrl: 'videos/building-forehand-swing-path.m4v',
                             duration: '1:12',
                             title: 'Drop-Feed Contact Point Ladder — Demonstration'
@@ -206,7 +206,7 @@ window.FUNDAMENTALS_ANNUAL_PLAN = {
                         id: 'rally-1',
                         name: 'Short-court contact rallies',
                         demonstrationVideo: {
-                            thumbnailUrl: 'video-thumbnail-3.jpg',
+                            thumbnailUrl: '/images/video-thumbnail-3.jpg',
                             videoUrl: 'videos/building-forehand-swing-path.m4v',
                             duration: '2:05',
                             title: 'Short-Court Contact Rallies — Demonstration'
@@ -230,7 +230,7 @@ window.FUNDAMENTALS_ANNUAL_PLAN = {
                         id: 'game-1',
                         name: 'First to five "clean contacts"',
                         demonstrationVideo: {
-                            thumbnailUrl: 'video-thumbnail-4.jpg',
+                            thumbnailUrl: '/images/video-thumbnail-4.jpg',
                             videoUrl: 'videos/building-forehand-swing-path.m4v',
                             duration: '1:30',
                             title: 'First to Five "Clean Contacts" — Demonstration'
