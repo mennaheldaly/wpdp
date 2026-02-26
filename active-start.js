@@ -1,6 +1,6 @@
 // CTA Tile click handlers
 document.getElementById('startCoachingTile').addEventListener('click', function() {
-    window.location.href = 'coaching-pathway.html';
+    window.location.href = '/stages.html';
 });
 
 document.getElementById('fixProblemTile').addEventListener('click', function() {
