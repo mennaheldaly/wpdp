@@ -158,7 +158,7 @@ window.FUNDAMENTALS_ANNUAL_PLAN = {
                         id: 'warmup-1',
                         name: 'Dynamic movement & shadow swings',
                         demonstrationVideo: {
-                            thumbnailUrl: 'video-thumbnail-1.jpg',
+                            thumbnailUrl: '/images/video-thumbnail-1.jpg',
                             videoUrl: 'videos/building-forehand-swing-path.m4v',
                             duration: '1:45',
                             title: 'Dynamic Movement & Shadow Swings — Demonstration'

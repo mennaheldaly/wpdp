@@ -582,7 +582,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 const video = videos[videoId];
                 
                 videoCard.innerHTML = `
-                    <div class="player-drawer-video-thumbnail" style="background-image: url('video-thumbnail-1.jpg');">
+                    <div class="player-drawer-video-thumbnail" style="background-image: url('/images/video-thumbnail-1.jpg');">
                         <div class="player-drawer-video-overlay"></div>
                         <div class="preview-only-label">Preview Only</div>
                         <div class="player-drawer-video-play-icon">
